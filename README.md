@@ -4,6 +4,13 @@ I am an Electrical and Electronic Engineering Student currently pursuing a Maste
 
 Pomegranate was a resounding success, however it can still be improved upon, thus I will continue to maintain and build upon it. Updates regarding the development of Pomegranate are posted on my [LinkedIn page](https://www.linkedin.com/in/zachary-pearce-231307243/). If you would like to learn more about Pomegranate, please visit the repository.
 
+---
+
+# 🧰  Languages and Tools
+<div>
+  <img src="https://github.com/file-icons/icons/blob/master/svg/VHDL.svg" title="VHDL" alt="VHDL" width="40" height="40"/>
+</div>
+
 <!---
 Zachary-Pearce/Zachary-Pearce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
