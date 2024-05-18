@@ -1,4 +1,4 @@
-Hi 👋, I’m @Zachary-Pearce
+Hi 👋, I’m Zachary Pearce
 
 I am an Electrical and Electronic Engineering Student currently pursuing a Masters at the [University of Hertfordshire](https://www.herts.ac.uk/). I have always had an interest in computer science, but shared a greater if not equal passion for engineering, the perfect blend of these two fields is computer hardware engineering. As such I have pursued projects in this area, the largest of which being Pomegranate, an open source portable and scalable soft-core processor developed in VHDL for my thesis in the final year of my undergrad.
 
