@@ -6,7 +6,10 @@ Pomegranate was a resounding success, however it can still be improved upon, thu
 
 # 🧰  Languages and Tools
 <div>
-  <img src="https://github.com/Zachary-Pearce/Zachary-Pearce/blob/main/file-type-vhdl.svg" title="VHDL" alt="VHDL" width="40" height="40"/>
+  <div>
+    <img src="https://github.com/Zachary-Pearce/Zachary-Pearce/blob/main/file-type-vhdl.svg" title="VHDL" alt="VHDL" width="40" height="40"/>
+    <p>VHDL</p>
+  </div>
 </div>
 
 <!---
