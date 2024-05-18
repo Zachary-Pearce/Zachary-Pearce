@@ -7,9 +7,5 @@ Pomegranate was a resounding success, however it can still be improved upon, thu
 # 🧰  Languages and Tools
 <div>
   <img src="https://github.com/Zachary-Pearce/Zachary-Pearce/blob/main/vhdl-svgrepo-com.svg" title="VHDL" alt="VHDL" width="40" height="40"/>
+  <img src="" title="Vivado" alt="Vivado" width="40" height="40"/>
 </div>
-
-<!---
-Zachary-Pearce/Zachary-Pearce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
