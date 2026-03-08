@@ -1,6 +1,6 @@
-Hi 👋, I’m Zachary Pearce
+Hi 👋, I’m Zach
 
-I am an Electrical and Electronic Engineering graduate who is pursuing work in computer architecture design, my main work is Pomegranate, an open source processor design framework. As well as POM8, a reconfigurable 8-bit microcontroller architecture built for education.
+I mainly do computer engineering on the side when I have time, feel free to check out my projects.
 
 # 🧰  Languages and Tools
 <div>
